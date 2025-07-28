@@ -66,6 +66,3 @@ flutter run
  [LinkedIn](https://linkedin.com/in/aryanmalhotra112003)
 
 ---
-
-```
-
